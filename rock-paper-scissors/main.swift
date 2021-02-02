@@ -33,19 +33,19 @@ func correctChoice() -> String {
     return correct
 }
 
-//Take the return statements from the functions and assigns them to a variable.
-let selection = playerChoice()
-let correct = correctChoice()
-let randomAction = pickRandom()
-let startGame = displayStartGame()
-
 //Prints out the statement for the game starting.
+let startGame = displayStartGame()
 print(startGame)
+
+//Take the return statements from the functions and assigns them to a variable.
+var selection = playerChoice()
+var correct = correctChoice()
+let randomAction = pickRandom()
 
 //Checks if the user wants to change there selection.
 while correct == "N" {
-    playerChoice()
-    correctChoice()
+    selection = playerChoice()
+    correct = correctChoice()
 }
 
 //If you selected Rock this will determine your outcome.
