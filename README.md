@@ -14,6 +14,7 @@
 
 * [Youtube](https://www.youtube.com/user/CodeWithChris)
 * [Stack Overflow](https://stackoverflow.com)
+* [Swift Forums](https://forums.swift.org)
 
 # Future Work
 
