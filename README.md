@@ -17,5 +17,5 @@
 
 # Future Work
 
-* Improve the method of comaparing values
+* Improve the method of comparing values
 * Add the option to have two users play together
