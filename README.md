@@ -1,24 +1,21 @@
 # Overview
 
-* This software displays a map centered on the United States and shows different climbing locations while giving a brief description about each location.  I was able to attain this data from various locations that I have been climbing too and also by using the app mountain project to help provide me with more locations of interest.
+* This software will allow the user to play a game of rock, paper, scissors, lizard, spock.  The software will begin by displaying some print statements which will instruct the user to make their selection which will start the game.  The user will then be asked if they made the correct selection and if they like their selection then it will be compared to what the computer came up with.  Will display message depending on results.
 
-* The purpose of this software is to provide the user with some different climbing locations they can travel too and to help them have an idea of the amount of different routes available at each location.
+* The purpose of this software is give the user a fun game they can play and also help me to understand different elements of coding in the swift language.
 
-[Software Demo Video](https://youtu.be/nqzHYlrLO4Q)
+[Software Demo Video](https://youtube.com)
 
 # Development Environment
 
-* In order for me to develop this software I used the ArcGIS library which provided me with examples of code and also walkthroughs of how I can the software to the point it is today.  I was able to find some code that allowed me to create a custom layer which I used for my code and then edited it to make it work for my map.  The programming language that I used is Javascript mainly and also have a little html and css.
+* In order for me to develop this software I worked with Xcode so I was able to work in the swift langauage. To help me learn swift, I visisted many different sites and reached out to friends that were able to explain different concepts to me.
 
 # Useful Websites
 
-* [Mountain Project](https://www.mountainproject.com/)
-* [Apple Maps](https://www.apple.com/maps/)
-* [National Geographic](https://www.nationalgeographic.com/adventure/adventure-blog/2011/02/15/top-five-adventurers-ice-climber-will-gadds-favorite-places/#close)
-* [ArcGIS for Developers](https://developers.arcgis.com)
+* [Youtube](https://www.youtube.com/user/CodeWithChris)
+* [Stack Overflow](https://stackoverflow.com)
 
 # Future Work
 
-* Improve the layers to have one layer include all markers.
-* Improve the markers to display more information.
-* Add more climbing locations in the USA and the rest of the world.
+* Improve the method of comaparing values
+* Add the option to have two users play together
